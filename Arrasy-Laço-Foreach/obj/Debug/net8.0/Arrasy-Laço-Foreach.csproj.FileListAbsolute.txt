@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Arrays-C#/Arrasy-Laço-Foreach/bin/Debug/net8.0/Arrasy-Laço-Foreach
+/home/nicolas/Documentos/Arrays-C#/Arrasy-Laço-Foreach/bin/Debug/net8.0/Arrasy-Laço-Foreach.deps.json
+/home/nicolas/Documentos/Arrays-C#/Arrasy-Laço-Foreach/bin/Debug/net8.0/Arrasy-Laço-Foreach.runtimeconfig.json
+/home/nicolas/Documentos/Arrays-C#/Arrasy-Laço-Foreach/bin/Debug/net8.0/Arrasy-Laço-Foreach.dll
+/home/nicolas/Documentos/Arrays-C#/Arrasy-Laço-Foreach/bin/Debug/net8.0/Arrasy-Laço-Foreach.pdb
+/home/nicolas/Documentos/Arrays-C#/Arrasy-Laço-Foreach/obj/Debug/net8.0/Arrasy-Laço-Foreach.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Arrays-C#/Arrasy-Laço-Foreach/obj/Debug/net8.0/Arrasy-Laço-Foreach.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Arrays-C#/Arrasy-Laço-Foreach/obj/Debug/net8.0/Arrasy-Laço-Foreach.AssemblyInfo.cs
+/home/nicolas/Documentos/Arrays-C#/Arrasy-Laço-Foreach/obj/Debug/net8.0/Arrasy-Laço-Foreach.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Arrays-C#/Arrasy-Laço-Foreach/obj/Debug/net8.0/Arrasy-Laço-Foreach.sourcelink.json
+/home/nicolas/Documentos/Arrays-C#/Arrasy-Laço-Foreach/obj/Debug/net8.0/Arrasy-Laço-Foreach.dll
+/home/nicolas/Documentos/Arrays-C#/Arrasy-Laço-Foreach/obj/Debug/net8.0/refint/Arrasy-Laço-Foreach.dll
+/home/nicolas/Documentos/Arrays-C#/Arrasy-Laço-Foreach/obj/Debug/net8.0/Arrasy-Laço-Foreach.pdb
+/home/nicolas/Documentos/Arrays-C#/Arrasy-Laço-Foreach/obj/Debug/net8.0/Arrasy-Laço-Foreach.genruntimeconfig.cache
+/home/nicolas/Documentos/Arrays-C#/Arrasy-Laço-Foreach/obj/Debug/net8.0/ref/Arrasy-Laço-Foreach.dll

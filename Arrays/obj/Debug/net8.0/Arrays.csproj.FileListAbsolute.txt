@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Arrays-C#/Arrays/bin/Debug/net8.0/Arrays
+/home/nicolas/Documentos/Arrays-C#/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/nicolas/Documentos/Arrays-C#/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/nicolas/Documentos/Arrays-C#/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/nicolas/Documentos/Arrays-C#/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/nicolas/Documentos/Arrays-C#/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Arrays-C#/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Arrays-C#/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/nicolas/Documentos/Arrays-C#/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Arrays-C#/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
+/home/nicolas/Documentos/Arrays-C#/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/nicolas/Documentos/Arrays-C#/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/nicolas/Documentos/Arrays-C#/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/nicolas/Documentos/Arrays-C#/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/nicolas/Documentos/Arrays-C#/Arrays/obj/Debug/net8.0/ref/Arrays.dll
