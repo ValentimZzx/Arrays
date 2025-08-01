@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classe-Array", "Classe-Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays-Exercios", "Arrays-Exercios\Arrays-Exercios.csproj", "{CCFF1033-46E0-4939-8CC4-829AE78AC8E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modificador-Params", "Modificador-Params\Modificador-Params.csproj", "{384C6A14-D3F0-4376-B7D1-21B215B408B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{CCFF1033-46E0-4939-8CC4-829AE78AC8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCFF1033-46E0-4939-8CC4-829AE78AC8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCFF1033-46E0-4939-8CC4-829AE78AC8E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{384C6A14-D3F0-4376-B7D1-21B215B408B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384C6A14-D3F0-4376-B7D1-21B215B408B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384C6A14-D3F0-4376-B7D1-21B215B408B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384C6A14-D3F0-4376-B7D1-21B215B408B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

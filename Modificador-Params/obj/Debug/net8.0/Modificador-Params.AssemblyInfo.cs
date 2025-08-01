@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Arrays")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Modificador-Params")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1e864efedeb925e6c1fec803bdeddc28f7e6325")]
-[assembly: System.Reflection.AssemblyProductAttribute("Arrays")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Arrays")]
+[assembly: System.Reflection.AssemblyProductAttribute("Modificador-Params")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Modificador-Params")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
